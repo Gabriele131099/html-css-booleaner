@@ -6,7 +6,72 @@
 
 .sfondo
 {
-    background-color: black;
-    width: 50%;
-    height: 50vh;
+    background-color: cornflowerblue;
+    background-image: url(".html-css-booleaner/img/pattern.png");
+    background-size: cover;
+    height: auto;
 }
+
+.logo
+{
+    width: 30%;
+    height: auto;
+    margin-left: 10%;
+}
+
+
+.centra , .contenitore
+{
+    left: 50%;
+    transform: translate(-50%, 0%);
+  }
+  
+  .contenitore
+  {
+    width: 80%;
+    position: absolute;
+  }
+
+  .row , .row1 , .row2 
+  {
+    position: relative;
+    float: left;
+    width: 31%;
+    height: 8vh;
+    line-height: 8vh;
+}
+
+.row1b , .row2b
+{
+  position: relative;
+  float: left;
+  width: 31%;
+  height: 8vh;
+}
+  /* riga fr animali */
+  
+  .row1 , .row1b
+  {
+    background-color: lightcyan;
+  }
+
+  .row2 , .row2b
+  {
+      background-color: white;
+  }
+  
+   .row-titolo
+  {
+      position: relative;
+      float: left;
+      width: 31%;
+      background-color:lightskyblue;
+  }
+
+  .row , .row3
+  {
+    position: relative;
+    float: left;
+    width: 98%;
+    margin-top: 5%;
+  }
