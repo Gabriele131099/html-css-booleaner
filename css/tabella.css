@@ -1,0 +1,33 @@
+.grandezzaa
+{
+    width: 25%;
+    
+
+}
+
+.grandezzab
+{
+    width: 25%;
+
+}
+
+.grandezzac
+{
+    width: 50%;
+}
+
+.no-bordi
+{
+    border-collapse: collapse;
+}
+
+.colora-titolo
+{
+    background-color: cyan;
+    text-align: left;
+}
+
+.colora-sfondo-riga
+{
+    background-color: lightcyan;
+}
