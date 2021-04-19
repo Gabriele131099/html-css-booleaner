@@ -3,7 +3,7 @@
     margin: 0%;
     box-sizing: border-box;
 }
-
+/* colore navy e grigio per testo  */
 .navy
 {
     color:cyan;
@@ -13,7 +13,8 @@
     color: grey;
 }
 
-.sfondo
+/* sfondo e logo */
+.sfondo  
 {
     background-image: url("./img/pattern.png");
     background-color: cornflowerblue;
@@ -28,19 +29,21 @@
     padding-top: 10vh;
 }
 
-
+/* centra tutto */
 .centra , .contenitore
 {
     left: 50%;
     transform: translate(-50%, 0%);
   }
   
+  /* contenitore home */
   .contenitore
   {
     width: 60%;
     position: absolute;
   }
 
+  /* righe della tabella lorem ipsum */
   .row , .row1 , .row2 
   {
     position: relative;
@@ -50,6 +53,7 @@
     line-height: 10vh;
 }
 
+/* righe della tabella lorem ipsum totale */
 .row1b , .row2b
 {
   position: relative;
@@ -57,7 +61,6 @@
   width: 31%;
   height: 10vh;
 }
-  /* riga fr animali */
   
   .row1 , .row1b
   {
@@ -69,6 +72,7 @@
       background-color: white;
   }
   
+  /* riga titoli tabella */
    .row-titolo
   {
       position: relative;
@@ -84,6 +88,8 @@
     width: 98%;
     margin-top: 5%;
   }
+
+  /* foto e testo  */
   .foto1
   {
       background-image: url("img/monitor.jpg");
