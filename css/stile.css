@@ -38,8 +38,8 @@
     position: relative;
     float: left;
     width: 31%;
-    height: 8vh;
-    line-height: 8vh;
+    height:10vh;
+    line-height: 10vh;
 }
 
 .row1b , .row2b
@@ -47,7 +47,7 @@
   position: relative;
   float: left;
   width: 31%;
-  height: 8vh;
+  height: 10vh;
 }
   /* riga fr animali */
   
